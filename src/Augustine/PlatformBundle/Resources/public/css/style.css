@@ -144,8 +144,7 @@ background-color: rgba(0, 0, 0, 2.5);
         text-align:center;
     }
     #home .overlay {
-              background:url(../img/overlays/06.png);        
-        min-height:700px;
+
     }
     
     .div-trans {
